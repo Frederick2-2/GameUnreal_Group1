@@ -74,3 +74,5 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 *.DS_Store
+/Helldivers373/DerivedDataCache
+/Helldivers373/Intermediate
