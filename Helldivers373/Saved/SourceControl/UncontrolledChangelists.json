@@ -5,12 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/runfr/Downloads/GameUnreal_Group1/GameUnreal_Group1/Helldivers373/Content/Levels/Lvl_FredsLevel.umap",
-				"C:/Users/runfr/Downloads/GameUnreal_Group1/GameUnreal_Group1/Helldivers373/Content/Levels/Lvl_JuanLevel.umap",
-				"C:/Users/runfr/Downloads/GameUnreal_Group1/GameUnreal_Group1/Helldivers373/Content/Levels/Lvl_ZaneLevel.umap",
 				"/Users/tbchotam/Development/GameUnreal_Group1/Helldivers373/Content/Levels/Main.umap",
 				"/Users/tbchotam/Development/GameUnreal_Group1/Helldivers373/Content/Levels/TyLevel.umap",
-				"/Users/tbchotam/Development/GameUnreal_Group1/Helldivers373/Content/Models/example.uasset"
+				"/Users/tbchotam/Development/GameUnreal_Group1/Helldivers373/Content/Models/example.uasset",
+				"/Users/tbchotam/Development/GameUnreal_Group1/Helldivers373/Content/Levels/Lvl_TyLevel.umap",
+				"/Users/tbchotam/Development/GameUnreal_Group1/Helldivers373/Content/Levels/Lvl_Main.umap",
+				"/Users/tbchotam/Development/GameUnreal_Group1/Helldivers373/Content/Blueprints/Player/BP_PlayerController.uasset",
+				"/Users/tbchotam/Development/GameUnreal_Group1/Helldivers373/Content/Blueprints/uhhhh.uasset",
+				"/Users/tbchotam/Development/GameUnreal_Group1/Helldivers373/Content/Blueprints/BP_GameMode.uasset",
+				"/Users/tbchotam/Development/GameUnreal_Group1/Helldivers373/Content/Blueprints/Player/BP_PlayerCharacter.uasset",
+				"/Users/tbchotam/Development/GameUnreal_Group1/Helldivers373/Content/Input/IA_Move.uasset",
+				"/Users/tbchotam/Development/GameUnreal_Group1/Helldivers373/Content/Input/IA_Look.uasset",
+				"/Users/tbchotam/Development/GameUnreal_Group1/Helldivers373/Content/Input/IMC_Default.uasset",
+				"C:/Users/runfr/Downloads/GameUnreal_Group1/GameUnreal_Group1/Helldivers373/Content/Levels/Lvl_FredsLevel.umap",
+				"C:/Users/runfr/Downloads/GameUnreal_Group1/GameUnreal_Group1/Helldivers373/Content/Levels/Lvl_JuanLevel.umap",
+				"C:/Users/runfr/Downloads/GameUnreal_Group1/GameUnreal_Group1/Helldivers373/Content/Levels/Lvl_ZaneLevel.umap"
 			]
 		}
 	]
