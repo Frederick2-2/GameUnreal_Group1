@@ -76,3 +76,4 @@ DerivedDataCache/*
 *.DS_Store
 /Helldivers373/DerivedDataCache
 /Helldivers373/Intermediate
+/Helldivers373/Saved/Autosaves
